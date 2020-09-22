@@ -1,0 +1,39 @@
+
+.nav{
+    list-style-type: none;
+    padding:0;
+    margin: 0;
+    background-color: #e8b9ab;
+    overflow: hidden;
+    font-size: large;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: auto;
+}
+li {
+    display:inline;
+    border-right: 1px solid #8c5f66;
+}
+li a {
+    color: #636564;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+li a:hover {
+    background-color: #e09891;
+}
+li:last-child {
+    border-right: none;
+  }
+iframe{
+    margin: auto;;
+    width: 100%;
+    height:750px;
+    overflow: hidden;
+    text-align: center;
+}
+body{
+    background-color: #adbca5;                              
+}
