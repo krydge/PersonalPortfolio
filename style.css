@@ -69,3 +69,25 @@ img{
   margin-right: auto;
   width: 60%;
 }
+
+.card{
+  background:whitesmoke;
+  content: center;
+  color:black;
+  margin:auto;
+  width:75%;
+  border-bottom-left-radius: 2%;
+  border-bottom-right-radius: 2%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-align: center;
+
+}
+.card h3{
+  background: #1e800a;
+  padding:10px;
+  align-content: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-align: center;
+}
